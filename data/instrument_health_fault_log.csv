@@ -1,0 +1,8 @@
+instrument_id,fault_style,fault_start_hour,drift_rate_per_hour
+PT-SOKU-W02-01,slow_drift,809,0.00727
+DPT-BELEMA-W01-01,slow_drift,495,0.00486
+LT-BELEMA-FS-01,slow_drift,639,0.01287
+PT-BELEMA-W03-01,sudden_fault,966,0.0
+DPT-UGHELLI-W02-01,slow_drift,514,-0.0065
+TT-UGHELLI-W02-01,slow_drift,955,-0.00935
+LT-NORKPO-FS-01,slow_drift,837,0.00591
