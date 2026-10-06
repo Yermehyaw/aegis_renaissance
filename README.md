@@ -69,7 +69,7 @@ callout, since that fusion is AEGIS's actual thesis.
   code changes are needed — every chart and dropdown reads the data
   dynamically.
 
-## Known limitations (say this plainly if asked)
+## Known limitations
 
 - All underlying data is synthetic, generated to be structurally realistic,
   not copied from real Renaissance operations.
